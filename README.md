@@ -5,6 +5,11 @@
 
 The **Employee Management System** is a C# application designed to manage employee records efficiently. It allows users to add, view, update, and delete employee details in a simple and user-friendly interface.
 
+Demonstration
+Watch the video below to see the project in action:
+
+YouTube Video  https://youtu.be/xtdMbQs96EM?si=JPhy61Rq2FdNT8Nh
+
 ---
 
 ## Features
@@ -53,14 +58,6 @@ Run the application:
 bash
 Copy
 dotnet run
-File Structure
-Copy
-Employee-Management-System/
-├── Program.cs          # Main application logic
-├── Employee.cs         # Employee class definition
-├── EmployeeManager.cs  # Employee management logic
-├── employees.txt       # File for storing employee data
-└── README.md           # Project documentation
 
 Contact
 For questions or feedback, feel free to reach out:
