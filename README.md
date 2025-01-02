@@ -41,22 +41,15 @@ YouTube Video  https://youtu.be/xtdMbQs96EM?si=JPhy61Rq2FdNT8Nh
 ### Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/YOHANNES294/Employee-Management-System.git
 Navigate to the project directory:
 
-bash
-Copy
 cd Employee-Management-System
 Build the project:
 
-bash
-Copy
 dotnet build
 Run the application:
 
-bash
-Copy
 dotnet run
 
 Contact
